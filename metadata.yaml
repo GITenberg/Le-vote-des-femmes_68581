@@ -1,0 +1,36 @@
+_repo: Le-vote-des-femmes_68581
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Auclert, Hubertine
+    birthdate: 1848
+    deathdate: 1914
+    gutenberg_agent_id: '54842'
+    url: http://www.gutenberg.org/2009/agents/54842
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Hubertine_Auclert
+    - https://en.wikipedia.org/wiki/Hubertine_Auclert
+description: ''
+gutenberg_issued: '2022-07-21'
+identifiers:
+  gutenberg: '68581'
+  lccn: '44043250'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k853191f/f7.double
+pgterms:marc905: 20161208015311auclert
+pgterms:marc906: '1908'
+pgterms:marc907: FR
+production_note: Claudine Corbasson & the online Project Gutenberg team at https://www.pgdpcanada.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: France :V. Giard & E. Brière,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Women -- Suffrage -- France'
+- !lcc 'JN'
+- GITenberg
+title: Le vote des femmes
+url: http://www.gutenberg.org/ebooks/68581
