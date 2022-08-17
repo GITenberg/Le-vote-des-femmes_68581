@@ -1,5 +1,8 @@
 _repo: Le-vote-des-femmes_68581
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68581-h/images/cover.jpg
 creator:
   author:
     agent_name: Auclert, Hubertine
@@ -11,6 +14,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Hubertine_Auclert
     - https://en.wikipedia.org/wiki/Hubertine_Auclert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68581#Le-vote-des-femmes
 gutenberg_issued: '2022-07-21'
 identifiers:
   gutenberg: '68581'
